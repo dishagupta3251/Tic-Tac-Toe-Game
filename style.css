@@ -1,0 +1,23 @@
+body{
+   
+    text-align: center;
+}
+.box{
+    height: 70px;
+    width: 70px;
+    align-content: center;
+    background-color: aquamarine;
+    font-size: 50px;
+    color: black;
+    flex-wrap: wrap;
+    margin: 7px;
+    border-radius: 20%;
+    box-shadow: inset;
+    float:none;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.row1{
+    gap: 20px;
+}
