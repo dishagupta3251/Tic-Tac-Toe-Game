@@ -1,10 +1,12 @@
 body{
    
     text-align: center;
+    
 }
 .box{
     height: 70px;
     width: 70px;
+
     align-content: center;
     background-color: aquamarine;
     font-size: 50px;
@@ -13,11 +15,23 @@ body{
     margin: 7px;
     border-radius: 20%;
     box-shadow: inset;
-    float:none;
     justify-content: center;
-    flex-wrap: wrap;
 
 }
 .row1{
     gap: 20px;
+}
+.row2{
+    gap: 20px;
+}
+.row3{
+    gap: 20px;
+}
+#button{
+    background-color: black;
+    color: white;
+    height: 30px;
+
+    margin-top: 20px;
+    border-radius: 15%;
 }
